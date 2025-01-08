@@ -1,19 +1,18 @@
 class Solution {
     public int countPrefixSuffixPairs(String[] words) {
-        int n = words.length;
-        int ans = 0;
-        for(int i = 0; i < n; i++) {
-            String s1 = words[i];
-            for(int j = i + 1; j < n; j++) {
-                String s2 = words[j];
-                if(s2.length() < s1.length()) continue;
-                String pre = s2.substring(0, s1.length());
-                String suf = s2.substring(s2.length() - s1.length());
-                if(pre.equals(s1) && suf.equals(s1)) {
-                    ans++;
+        int res = 0;
+
+        for (int i = 0; i < words.length - 1; i++) {
+            for (int j = i + 1; j < words.length; j++) {
+                if (isPrefixAndSuffix(words[i], words[j])) {
+                    res += 1;
                 }
             }
         }
-        return ans;
+        return res;
+    }
+
+    boolean isPrefixAndSuffix(String s1, String s2) {
+        return s2.startsWith(s1) && s2.endsWith(s1);
     }
 }
