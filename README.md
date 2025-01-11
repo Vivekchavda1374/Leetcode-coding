@@ -82,4 +82,8 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
+## Database
+|  |
+| ------- |
+| [1174-sales-analysis-iii](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1174-sales-analysis-iii) |
 <!---LeetCode Topics End-->
