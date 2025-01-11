@@ -34,6 +34,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [1174-sales-analysis-iii](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1174-sales-analysis-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
