@@ -58,6 +58,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
@@ -151,6 +152,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Matrix
