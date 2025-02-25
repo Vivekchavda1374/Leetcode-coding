@@ -134,6 +134,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0595-big-countries) |
 | [1174-sales-analysis-iii](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1174-sales-analysis-iii) |
