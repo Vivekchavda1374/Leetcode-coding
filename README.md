@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0322-coin-change) |
@@ -157,6 +158,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Stack
@@ -218,5 +220,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
