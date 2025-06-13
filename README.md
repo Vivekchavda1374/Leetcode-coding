@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
