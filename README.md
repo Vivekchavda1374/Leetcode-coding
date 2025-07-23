@@ -99,6 +99,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0543-diameter-of-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -117,6 +118,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0322-coin-change) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1876-map-of-highest-peak](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching
@@ -223,6 +225,7 @@
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0543-diameter-of-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
