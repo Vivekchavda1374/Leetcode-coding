@@ -104,6 +104,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0543-diameter-of-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -111,6 +112,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0543-diameter-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -121,6 +123,7 @@
 | [0063-unique-paths-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0198-house-robber) |
@@ -224,6 +227,7 @@
 | [0050-powx-n](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0279-perfect-squares) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -304,4 +308,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
