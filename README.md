@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0322-coin-change) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -135,6 +137,7 @@
 | [0198-house-robber](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0518-coin-change-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0518-coin-change-ii) |
