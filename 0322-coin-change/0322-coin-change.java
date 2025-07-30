@@ -2,19 +2,25 @@ import java.util.Arrays;
 
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int max = amount + 1;
-        int[] dp = new int[amount + 1];
-        Arrays.fill(dp, max);
-        dp[0] = 0;
-        
-        for (int i = 1; i <= amount; i++) {
-            for (int coin : coins) {
-                if (i >= coin) {
-                    dp[i] = Math.min(dp[i], dp[i - coin] + 1);
-                }
+        int[] memo = new int[amount + 1];
+        Arrays.fill(memo, -2);
+        return helper(coins, amount, memo);
+    }
+
+    private int helper(int[] coins, int amount, int[] memo) {
+        if (amount < 0) return -1;
+        if (amount == 0) return 0;
+        if (memo[amount] != -2) return memo[amount];
+
+        int min = Integer.MAX_VALUE;
+        for (int coin : coins) {
+            int res = helper(coins, amount - coin, memo);
+            if (res >= 0 && res < min) {
+                min = res + 1;
             }
         }
-        
-        return dp[amount] == max ? -1 : dp[amount];
+
+        memo[amount] = (min == Integer.MAX_VALUE) ? -1 : min;
+        return memo[amount];
     }
 }
