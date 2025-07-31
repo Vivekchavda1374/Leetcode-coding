@@ -57,6 +57,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1524-string-matching-in-an-array) |
@@ -140,6 +141,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
