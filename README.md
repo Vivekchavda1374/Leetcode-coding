@@ -13,6 +13,7 @@
 | [0064-minimum-path-sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
@@ -133,6 +134,7 @@
 | [0070-climbing-stairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0198-house-robber) |
