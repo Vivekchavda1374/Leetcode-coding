@@ -43,6 +43,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2465-shifting-letters-ii) |
@@ -87,6 +88,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2145-grid-game](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -100,6 +102,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -348,4 +351,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0095-unique-binary-search-trees-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
