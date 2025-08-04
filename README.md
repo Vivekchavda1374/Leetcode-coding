@@ -33,6 +33,7 @@
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1206-corporate-flight-bookings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -194,6 +195,7 @@
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
+| [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
@@ -358,5 +360,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
