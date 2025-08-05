@@ -260,6 +260,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0050-powx-n) |
