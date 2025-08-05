@@ -60,6 +60,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2058-concatenation-of-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -362,4 +365,12 @@
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
