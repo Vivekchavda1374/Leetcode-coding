@@ -61,6 +61,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -370,8 +372,10 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
