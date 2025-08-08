@@ -263,6 +263,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Math
 |  |
@@ -276,6 +277,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
