@@ -207,6 +207,7 @@
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
+| [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
+| [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
@@ -256,6 +258,7 @@
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
+| [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2689-rearranging-fruits](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2689-rearranging-fruits) |
 ## Stack
@@ -282,6 +285,7 @@
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0319-bulb-switcher) |
+| [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -392,4 +396,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
