@@ -173,6 +173,7 @@
 | [0518-coin-change-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Breadth-First Search
 |  |
