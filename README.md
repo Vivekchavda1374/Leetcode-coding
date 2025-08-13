@@ -286,6 +286,7 @@
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -358,6 +359,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
 ## Concurrency
 |  |
