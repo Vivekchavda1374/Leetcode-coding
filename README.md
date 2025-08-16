@@ -224,6 +224,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -293,6 +294,7 @@
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2491-smallest-even-multiple) |
