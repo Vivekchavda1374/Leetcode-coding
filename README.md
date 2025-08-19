@@ -50,6 +50,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2358-number-of-ways-to-split-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2529-range-product-queries-of-powers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2529-range-product-queries-of-powers) |
@@ -299,6 +300,7 @@
 | [1448-maximum-69-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2630-alternating-digit-sum) |
 ## Matrix
