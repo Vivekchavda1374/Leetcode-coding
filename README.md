@@ -30,6 +30,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0518-coin-change-ii) |
+| [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
@@ -293,6 +294,7 @@
 | [0319-bulb-switcher](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0095-unique-binary-search-trees-ii) |
+| [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
 ## Sliding Window
 |  |
 | ------- |
