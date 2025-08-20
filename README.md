@@ -39,6 +39,7 @@
 | [1206-corporate-flight-bookings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1524-string-matching-in-an-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
@@ -178,6 +179,7 @@
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Breadth-First Search
@@ -317,6 +319,7 @@
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2685-first-completely-painted-row-or-column) |
