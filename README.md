@@ -42,6 +42,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1524-string-matching-in-an-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1603-running-sum-of-1d-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1876-map-of-highest-peak](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1876-map-of-highest-peak) |
@@ -180,6 +181,7 @@
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Breadth-First Search
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0225-implement-stack-using-queues) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Brainteaser
@@ -320,6 +323,7 @@
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2685-first-completely-painted-row-or-column) |
@@ -424,4 +428,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
