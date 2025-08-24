@@ -41,6 +41,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1524-string-matching-in-an-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1524-string-matching-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1603-running-sum-of-1d-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
@@ -184,6 +185,7 @@
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -414,6 +416,7 @@
 | ------- |
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Segment Tree
