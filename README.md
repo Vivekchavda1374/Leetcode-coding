@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0342-power-of-four) |
@@ -298,6 +299,7 @@
 | [0050-powx-n](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0279-perfect-squares) |
@@ -409,6 +411,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
 ## Sliding Window
