@@ -29,6 +29,7 @@
 | [0322-coin-change](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0403-frog-jump) |
+| [0498-diagonal-traverse](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0518-coin-change-ii) |
 | [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
@@ -326,6 +327,7 @@
 | [0064-minimum-path-sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0498-diagonal-traverse](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0498-diagonal-traverse) |
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
@@ -352,6 +354,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2021-remove-all-occurrences-of-a-substring) |
