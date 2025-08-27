@@ -70,6 +70,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
 ## String
@@ -191,6 +192,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2685-first-completely-painted-row-or-column) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -401,6 +404,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Combinatorics
 |  |
 | ------- |
