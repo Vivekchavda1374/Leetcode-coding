@@ -327,6 +327,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2630-alternating-digit-sum) |
+| [3830-find-closest-person](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
