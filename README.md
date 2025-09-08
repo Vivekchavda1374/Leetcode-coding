@@ -83,6 +83,7 @@
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
+| [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1524-string-matching-in-an-array) |
@@ -230,6 +231,7 @@
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
+| [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
@@ -244,6 +246,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
@@ -284,6 +288,7 @@
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
+| [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2689-rearranging-fruits](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2689-rearranging-fruits) |
@@ -382,6 +387,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1917-maximum-average-pass-ratio) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Queue
