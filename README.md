@@ -38,6 +38,7 @@
 | [0898-transpose-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1006-vowel-spellchecker) |
 | [1206-corporate-flight-bookings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
@@ -85,6 +86,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1006-vowel-spellchecker) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -236,6 +238,7 @@
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1006-vowel-spellchecker) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
