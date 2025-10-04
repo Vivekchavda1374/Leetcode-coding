@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0059-spiral-matrix-ii) |
@@ -404,6 +405,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 ## Number Theory
