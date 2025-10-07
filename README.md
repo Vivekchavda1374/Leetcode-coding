@@ -33,6 +33,7 @@
 | [0403-frog-jump](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0403-frog-jump) |
 | [0498-diagonal-traverse](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -108,6 +109,7 @@
 | [0238-product-of-array-except-self](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0560-subarray-sum-equals-k) |
 | [1206-corporate-flight-bookings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1206-corporate-flight-bookings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1603-running-sum-of-1d-array) |
@@ -237,6 +239,7 @@
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
