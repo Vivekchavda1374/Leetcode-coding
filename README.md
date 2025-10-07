@@ -15,6 +15,7 @@
 | [0064-minimum-path-sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
+| [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
@@ -354,6 +356,7 @@
 | [0063-unique-paths-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0498-diagonal-traverse) |
 | [0741-cherry-pickup](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0741-cherry-pickup) |
@@ -371,6 +374,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0543-diameter-of-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
@@ -448,6 +452,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0095-unique-binary-search-trees-ii) |
 | [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
