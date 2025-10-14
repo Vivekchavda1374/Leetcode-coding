@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0059-spiral-matrix-ii) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0064-minimum-path-sum) |
@@ -315,6 +317,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0225-implement-stack-using-queues) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -424,6 +427,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 ## Number Theory
@@ -496,6 +500,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Queue
 |  |
