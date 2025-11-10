@@ -441,6 +441,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0342-power-of-four) |
@@ -512,6 +513,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
