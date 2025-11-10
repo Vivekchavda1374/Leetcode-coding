@@ -389,6 +389,7 @@
 | [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0543-diameter-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -508,4 +509,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
