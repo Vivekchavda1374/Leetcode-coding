@@ -92,6 +92,7 @@
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
 | [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
@@ -247,6 +248,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
@@ -425,6 +428,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
