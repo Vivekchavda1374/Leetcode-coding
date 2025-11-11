@@ -37,6 +37,7 @@
 | [0322-coin-change](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0403-frog-jump) |
+| [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0560-subarray-sum-equals-k) |
@@ -140,6 +141,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
+| [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -496,11 +499,13 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
@@ -529,4 +534,12 @@
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
