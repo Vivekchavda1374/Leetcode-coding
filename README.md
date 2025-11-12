@@ -262,6 +262,7 @@
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
+| [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
@@ -460,6 +461,7 @@
 | [0031-next-permutation](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0443-string-compression) |
@@ -547,6 +549,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
