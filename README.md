@@ -564,6 +564,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
