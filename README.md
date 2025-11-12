@@ -268,6 +268,7 @@
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -561,6 +562,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
