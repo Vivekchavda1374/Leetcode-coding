@@ -344,6 +344,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1628-count-submatrices-with-all-ones) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -460,6 +461,7 @@
 | [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0443-string-compression) |
 ## Number Theory
 |  |
@@ -471,6 +473,7 @@
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1013-fibonacci-number) |
@@ -544,6 +547,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
