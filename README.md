@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
@@ -139,6 +140,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0240-search-a-2d-matrix-ii) |
@@ -314,6 +316,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0493-reverse-pairs) |
