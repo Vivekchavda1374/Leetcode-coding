@@ -108,6 +108,7 @@
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1006-vowel-spellchecker) |
@@ -278,6 +279,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
@@ -479,6 +481,7 @@
 | [0189-rotate-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0567-permutation-in-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -530,6 +533,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
