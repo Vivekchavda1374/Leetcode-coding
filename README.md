@@ -102,6 +102,7 @@
 | [0049-group-anagrams](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0389-find-the-difference) |
@@ -211,6 +212,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0279-perfect-squares) |
@@ -520,6 +522,7 @@
 | [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0679-24-game) |
 ## Sliding Window
 |  |
