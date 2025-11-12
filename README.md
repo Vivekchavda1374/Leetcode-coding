@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0063-unique-paths-ii) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
@@ -264,6 +266,7 @@
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
@@ -334,6 +337,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0354-russian-doll-envelopes) |
