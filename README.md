@@ -96,6 +96,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0010-regular-expression-matching) |
+| [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0079-word-search) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -262,6 +263,7 @@
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0387-first-unique-character-in-a-string) |
@@ -512,6 +514,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
