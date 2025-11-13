@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
@@ -298,6 +299,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0011-container-with-most-water) |
 | [0778-reorganize-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
@@ -471,6 +473,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0027-remove-element) |
