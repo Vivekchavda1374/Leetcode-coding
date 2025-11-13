@@ -1,9 +1,9 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int i =0,j=0,len =0;
+        int i = 0,j = 0,len = 0;
         int n = s.length();
         char[] c = s.toCharArray();
-        boolean[] chars = new boolean[255];
+        boolean[] chars = new boolean[256];
         while(j<n){
             while(chars[c[j]]){
                 chars[c[i]] = false;
