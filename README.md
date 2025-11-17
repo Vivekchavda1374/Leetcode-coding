@@ -56,6 +56,7 @@
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1006-vowel-spellchecker) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1206-corporate-flight-bookings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1396-count-servers-that-communicate](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1396-count-servers-that-communicate) |
@@ -134,6 +135,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1206-corporate-flight-bookings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1206-corporate-flight-bookings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1603-running-sum-of-1d-array) |
@@ -286,6 +288,7 @@
 | [0940-fruit-into-baskets](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1006-vowel-spellchecker) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/1635-number-of-good-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
