@@ -128,6 +128,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -299,6 +300,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vivekchavda1374/https-github.com-Vivekchavda1374-LEETCODE-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -547,6 +549,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Vivekchavda1374/Leetcode-coding/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Segment Tree
 |  |
 | ------- |
